@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  /* background-color: #FEF3C7; */
+}
+
+body {
+  background-color: #f5f3ff;
+}
+
+.modal {
+  width: 300px;
+}
+
+.modal-content {
+  width: 300px;
+}
+
+.list-group-item:hover{
+  background-color: rgba(57, 57, 57, 0.10)!important;
+}
+
+.list-group-choice {
+  color: initial;
+  text-decoration: none;
+}
+
+.btn {
+  background-color: #6d28d9;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #8b5cf6;
+  border: none;
+}
+
+.navbar-brand{
+  font-weight: bold;
+  color: #6d28d9;
+}
+
+.page-title{
+  font-size: large;
+  font-weight: bold;
+  color: #6d28d9;
+}
